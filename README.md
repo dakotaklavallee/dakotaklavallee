@@ -1,4 +1,4 @@
-![DKL](https://i.imgur.com/2dyenxR.gifv)
+![DKL](https://i.imgur.com/2dyenxR.gif)
 
 - 👋 Hi! I'm Dakota, a creative developer and a developing creative. I'd love to add some color to your codebase.
 
